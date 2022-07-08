@@ -2,4 +2,4 @@
 
 # serapagranchose.dev
 
-A website that promotes what I do as a developer
+A website that shows what I do as a developer
